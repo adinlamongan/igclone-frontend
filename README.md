@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## 
 
-backend https://github.com/adinlamongan/igclone-backend
+backend https://github.com/adinlamongan/igclone-backend 
+## 
 youtube demo https://www.youtube.com/watch?v=vZm_x6Zg0EI
 
